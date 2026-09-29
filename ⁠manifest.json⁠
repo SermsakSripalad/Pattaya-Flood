@@ -1,0 +1,21 @@
+{
+  "name": "ศูนย์ช่วยเหลือน้ำท่วม พัทยา",
+  "short_name": "กู้ภัยพัทยา",
+  "description": "ระบบรายงานระดับน้ำท่วม ดู CCTV และแจ้งขอความช่วยเหลือฉุกเฉิน พัทยา",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5664/5664977.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5664/5664977.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
